@@ -1,0 +1,26 @@
+{
+  "name": "mentu-plugins",
+  "owner": {
+    "name": "Mentu",
+    "email": "hello@mentu.ai"
+  },
+  "plugins": [
+    {
+      "name": "mentu",
+      "source": ".",
+      "description": "The Commitment Ledger — accountability for AI agents",
+      "version": "1.0.0",
+      "author": "Mentu",
+      "homepage": "https://mentu.ai",
+      "repository": "https://github.com/mentu-ai/mentu-plugin",
+      "license": "MIT",
+      "keywords": [
+        "accountability",
+        "commitments",
+        "evidence",
+        "agents",
+        "workflow"
+      ]
+    }
+  ]
+}
